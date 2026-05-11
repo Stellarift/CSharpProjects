@@ -1,0 +1,14 @@
+/Users/romanphil/MyFirstC#/bin/Debug/net10.0/MyFirstC#
+/Users/romanphil/MyFirstC#/bin/Debug/net10.0/MyFirstC#.deps.json
+/Users/romanphil/MyFirstC#/bin/Debug/net10.0/MyFirstC#.runtimeconfig.json
+/Users/romanphil/MyFirstC#/bin/Debug/net10.0/MyFirstC#.dll
+/Users/romanphil/MyFirstC#/bin/Debug/net10.0/MyFirstC#.pdb
+/Users/romanphil/MyFirstC#/obj/Debug/net10.0/MyFirstC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanphil/MyFirstC#/obj/Debug/net10.0/MyFirstC#.AssemblyInfoInputs.cache
+/Users/romanphil/MyFirstC#/obj/Debug/net10.0/MyFirstC#.AssemblyInfo.cs
+/Users/romanphil/MyFirstC#/obj/Debug/net10.0/MyFirstC#.csproj.CoreCompileInputs.cache
+/Users/romanphil/MyFirstC#/obj/Debug/net10.0/MyFirstC#.dll
+/Users/romanphil/MyFirstC#/obj/Debug/net10.0/refint/MyFirstC#.dll
+/Users/romanphil/MyFirstC#/obj/Debug/net10.0/MyFirstC#.pdb
+/Users/romanphil/MyFirstC#/obj/Debug/net10.0/MyFirstC#.genruntimeconfig.cache
+/Users/romanphil/MyFirstC#/obj/Debug/net10.0/ref/MyFirstC#.dll
