@@ -1,0 +1,14 @@
+/Users/romanphil/Tasks/bin/Debug/net10.0/Tasks
+/Users/romanphil/Tasks/bin/Debug/net10.0/Tasks.deps.json
+/Users/romanphil/Tasks/bin/Debug/net10.0/Tasks.runtimeconfig.json
+/Users/romanphil/Tasks/bin/Debug/net10.0/Tasks.dll
+/Users/romanphil/Tasks/bin/Debug/net10.0/Tasks.pdb
+/Users/romanphil/Tasks/obj/Debug/net10.0/Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanphil/Tasks/obj/Debug/net10.0/Tasks.AssemblyInfoInputs.cache
+/Users/romanphil/Tasks/obj/Debug/net10.0/Tasks.AssemblyInfo.cs
+/Users/romanphil/Tasks/obj/Debug/net10.0/Tasks.csproj.CoreCompileInputs.cache
+/Users/romanphil/Tasks/obj/Debug/net10.0/Tasks.dll
+/Users/romanphil/Tasks/obj/Debug/net10.0/refint/Tasks.dll
+/Users/romanphil/Tasks/obj/Debug/net10.0/Tasks.pdb
+/Users/romanphil/Tasks/obj/Debug/net10.0/Tasks.genruntimeconfig.cache
+/Users/romanphil/Tasks/obj/Debug/net10.0/ref/Tasks.dll
