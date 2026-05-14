@@ -1,0 +1,14 @@
+/Users/romanphil/Task3/bin/Debug/net10.0/Task3
+/Users/romanphil/Task3/bin/Debug/net10.0/Task3.deps.json
+/Users/romanphil/Task3/bin/Debug/net10.0/Task3.runtimeconfig.json
+/Users/romanphil/Task3/bin/Debug/net10.0/Task3.dll
+/Users/romanphil/Task3/bin/Debug/net10.0/Task3.pdb
+/Users/romanphil/Task3/obj/Debug/net10.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanphil/Task3/obj/Debug/net10.0/Task3.AssemblyInfoInputs.cache
+/Users/romanphil/Task3/obj/Debug/net10.0/Task3.AssemblyInfo.cs
+/Users/romanphil/Task3/obj/Debug/net10.0/Task3.csproj.CoreCompileInputs.cache
+/Users/romanphil/Task3/obj/Debug/net10.0/Task3.dll
+/Users/romanphil/Task3/obj/Debug/net10.0/refint/Task3.dll
+/Users/romanphil/Task3/obj/Debug/net10.0/Task3.pdb
+/Users/romanphil/Task3/obj/Debug/net10.0/Task3.genruntimeconfig.cache
+/Users/romanphil/Task3/obj/Debug/net10.0/ref/Task3.dll
