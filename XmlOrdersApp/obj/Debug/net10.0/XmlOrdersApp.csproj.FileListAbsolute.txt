@@ -1,0 +1,14 @@
+/Users/romanphil/Desktop/XmlOrdersApp/bin/Debug/net10.0/XmlOrdersApp
+/Users/romanphil/Desktop/XmlOrdersApp/bin/Debug/net10.0/XmlOrdersApp.deps.json
+/Users/romanphil/Desktop/XmlOrdersApp/bin/Debug/net10.0/XmlOrdersApp.runtimeconfig.json
+/Users/romanphil/Desktop/XmlOrdersApp/bin/Debug/net10.0/XmlOrdersApp.dll
+/Users/romanphil/Desktop/XmlOrdersApp/bin/Debug/net10.0/XmlOrdersApp.pdb
+/Users/romanphil/Desktop/XmlOrdersApp/obj/Debug/net10.0/XmlOrdersApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanphil/Desktop/XmlOrdersApp/obj/Debug/net10.0/XmlOrdersApp.AssemblyInfoInputs.cache
+/Users/romanphil/Desktop/XmlOrdersApp/obj/Debug/net10.0/XmlOrdersApp.AssemblyInfo.cs
+/Users/romanphil/Desktop/XmlOrdersApp/obj/Debug/net10.0/XmlOrdersApp.csproj.CoreCompileInputs.cache
+/Users/romanphil/Desktop/XmlOrdersApp/obj/Debug/net10.0/XmlOrdersApp.dll
+/Users/romanphil/Desktop/XmlOrdersApp/obj/Debug/net10.0/refint/XmlOrdersApp.dll
+/Users/romanphil/Desktop/XmlOrdersApp/obj/Debug/net10.0/XmlOrdersApp.pdb
+/Users/romanphil/Desktop/XmlOrdersApp/obj/Debug/net10.0/XmlOrdersApp.genruntimeconfig.cache
+/Users/romanphil/Desktop/XmlOrdersApp/obj/Debug/net10.0/ref/XmlOrdersApp.dll
