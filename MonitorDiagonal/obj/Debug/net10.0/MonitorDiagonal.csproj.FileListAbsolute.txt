@@ -1,0 +1,14 @@
+/Users/romanphil/Desktop/MonitorDiagonal/bin/Debug/net10.0/MonitorDiagonal
+/Users/romanphil/Desktop/MonitorDiagonal/bin/Debug/net10.0/MonitorDiagonal.deps.json
+/Users/romanphil/Desktop/MonitorDiagonal/bin/Debug/net10.0/MonitorDiagonal.runtimeconfig.json
+/Users/romanphil/Desktop/MonitorDiagonal/bin/Debug/net10.0/MonitorDiagonal.dll
+/Users/romanphil/Desktop/MonitorDiagonal/bin/Debug/net10.0/MonitorDiagonal.pdb
+/Users/romanphil/Desktop/MonitorDiagonal/obj/Debug/net10.0/MonitorDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanphil/Desktop/MonitorDiagonal/obj/Debug/net10.0/MonitorDiagonal.AssemblyInfoInputs.cache
+/Users/romanphil/Desktop/MonitorDiagonal/obj/Debug/net10.0/MonitorDiagonal.AssemblyInfo.cs
+/Users/romanphil/Desktop/MonitorDiagonal/obj/Debug/net10.0/MonitorDiagonal.csproj.CoreCompileInputs.cache
+/Users/romanphil/Desktop/MonitorDiagonal/obj/Debug/net10.0/MonitorDiagonal.dll
+/Users/romanphil/Desktop/MonitorDiagonal/obj/Debug/net10.0/refint/MonitorDiagonal.dll
+/Users/romanphil/Desktop/MonitorDiagonal/obj/Debug/net10.0/MonitorDiagonal.pdb
+/Users/romanphil/Desktop/MonitorDiagonal/obj/Debug/net10.0/MonitorDiagonal.genruntimeconfig.cache
+/Users/romanphil/Desktop/MonitorDiagonal/obj/Debug/net10.0/ref/MonitorDiagonal.dll
