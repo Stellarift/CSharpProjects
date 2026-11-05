@@ -1,0 +1,14 @@
+/Users/romanphil/Desktop/ProcessLab/bin/Debug/net10.0/ProcessLab
+/Users/romanphil/Desktop/ProcessLab/bin/Debug/net10.0/ProcessLab.deps.json
+/Users/romanphil/Desktop/ProcessLab/bin/Debug/net10.0/ProcessLab.runtimeconfig.json
+/Users/romanphil/Desktop/ProcessLab/bin/Debug/net10.0/ProcessLab.dll
+/Users/romanphil/Desktop/ProcessLab/bin/Debug/net10.0/ProcessLab.pdb
+/Users/romanphil/Desktop/ProcessLab/obj/Debug/net10.0/ProcessLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanphil/Desktop/ProcessLab/obj/Debug/net10.0/ProcessLab.AssemblyInfoInputs.cache
+/Users/romanphil/Desktop/ProcessLab/obj/Debug/net10.0/ProcessLab.AssemblyInfo.cs
+/Users/romanphil/Desktop/ProcessLab/obj/Debug/net10.0/ProcessLab.csproj.CoreCompileInputs.cache
+/Users/romanphil/Desktop/ProcessLab/obj/Debug/net10.0/ProcessLab.dll
+/Users/romanphil/Desktop/ProcessLab/obj/Debug/net10.0/refint/ProcessLab.dll
+/Users/romanphil/Desktop/ProcessLab/obj/Debug/net10.0/ProcessLab.pdb
+/Users/romanphil/Desktop/ProcessLab/obj/Debug/net10.0/ProcessLab.genruntimeconfig.cache
+/Users/romanphil/Desktop/ProcessLab/obj/Debug/net10.0/ref/ProcessLab.dll
