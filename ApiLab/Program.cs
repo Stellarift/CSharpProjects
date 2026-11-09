@@ -10,7 +10,6 @@ namespace ApiLab
         [DllImport("user32.dll", CharSet = CharSet.Unicode)]
         public static extern int MessageBox(IntPtr hWnd, string text, string caption, uint type);
 
-        // Добавлены знаки "?" для string, чтобы компилятор не ругался на null
         [DllImport("user32.dll", SetLastError = true)]
         public static extern IntPtr FindWindow(string? lpClassName, string? lpWindowName);
 
