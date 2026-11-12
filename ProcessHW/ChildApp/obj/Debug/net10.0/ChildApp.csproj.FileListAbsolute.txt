@@ -1,0 +1,14 @@
+/Users/romanphil/Desktop/ProcessHW/ChildApp/bin/Debug/net10.0/ChildApp
+/Users/romanphil/Desktop/ProcessHW/ChildApp/bin/Debug/net10.0/ChildApp.deps.json
+/Users/romanphil/Desktop/ProcessHW/ChildApp/bin/Debug/net10.0/ChildApp.runtimeconfig.json
+/Users/romanphil/Desktop/ProcessHW/ChildApp/bin/Debug/net10.0/ChildApp.dll
+/Users/romanphil/Desktop/ProcessHW/ChildApp/bin/Debug/net10.0/ChildApp.pdb
+/Users/romanphil/Desktop/ProcessHW/ChildApp/obj/Debug/net10.0/ChildApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanphil/Desktop/ProcessHW/ChildApp/obj/Debug/net10.0/ChildApp.AssemblyInfoInputs.cache
+/Users/romanphil/Desktop/ProcessHW/ChildApp/obj/Debug/net10.0/ChildApp.AssemblyInfo.cs
+/Users/romanphil/Desktop/ProcessHW/ChildApp/obj/Debug/net10.0/ChildApp.csproj.CoreCompileInputs.cache
+/Users/romanphil/Desktop/ProcessHW/ChildApp/obj/Debug/net10.0/ChildApp.dll
+/Users/romanphil/Desktop/ProcessHW/ChildApp/obj/Debug/net10.0/refint/ChildApp.dll
+/Users/romanphil/Desktop/ProcessHW/ChildApp/obj/Debug/net10.0/ChildApp.pdb
+/Users/romanphil/Desktop/ProcessHW/ChildApp/obj/Debug/net10.0/ChildApp.genruntimeconfig.cache
+/Users/romanphil/Desktop/ProcessHW/ChildApp/obj/Debug/net10.0/ref/ChildApp.dll

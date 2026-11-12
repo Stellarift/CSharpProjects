@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ChildApp/ChildApp.csproj" />
+  <Project Path="ParentApp/ParentApp.csproj" />
+</Solution>
