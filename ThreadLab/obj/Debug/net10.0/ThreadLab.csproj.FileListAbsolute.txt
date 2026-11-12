@@ -1,0 +1,14 @@
+/Users/romanphil/Desktop/ThreadLab/bin/Debug/net10.0/ThreadLab
+/Users/romanphil/Desktop/ThreadLab/bin/Debug/net10.0/ThreadLab.deps.json
+/Users/romanphil/Desktop/ThreadLab/bin/Debug/net10.0/ThreadLab.runtimeconfig.json
+/Users/romanphil/Desktop/ThreadLab/bin/Debug/net10.0/ThreadLab.dll
+/Users/romanphil/Desktop/ThreadLab/bin/Debug/net10.0/ThreadLab.pdb
+/Users/romanphil/Desktop/ThreadLab/obj/Debug/net10.0/ThreadLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanphil/Desktop/ThreadLab/obj/Debug/net10.0/ThreadLab.AssemblyInfoInputs.cache
+/Users/romanphil/Desktop/ThreadLab/obj/Debug/net10.0/ThreadLab.AssemblyInfo.cs
+/Users/romanphil/Desktop/ThreadLab/obj/Debug/net10.0/ThreadLab.csproj.CoreCompileInputs.cache
+/Users/romanphil/Desktop/ThreadLab/obj/Debug/net10.0/ThreadLab.dll
+/Users/romanphil/Desktop/ThreadLab/obj/Debug/net10.0/refint/ThreadLab.dll
+/Users/romanphil/Desktop/ThreadLab/obj/Debug/net10.0/ThreadLab.pdb
+/Users/romanphil/Desktop/ThreadLab/obj/Debug/net10.0/ThreadLab.genruntimeconfig.cache
+/Users/romanphil/Desktop/ThreadLab/obj/Debug/net10.0/ref/ThreadLab.dll
