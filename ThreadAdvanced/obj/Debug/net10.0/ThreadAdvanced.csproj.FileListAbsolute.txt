@@ -1,0 +1,14 @@
+/Users/romanphil/Desktop/ThreadAdvanced/bin/Debug/net10.0/ThreadAdvanced
+/Users/romanphil/Desktop/ThreadAdvanced/bin/Debug/net10.0/ThreadAdvanced.deps.json
+/Users/romanphil/Desktop/ThreadAdvanced/bin/Debug/net10.0/ThreadAdvanced.runtimeconfig.json
+/Users/romanphil/Desktop/ThreadAdvanced/bin/Debug/net10.0/ThreadAdvanced.dll
+/Users/romanphil/Desktop/ThreadAdvanced/bin/Debug/net10.0/ThreadAdvanced.pdb
+/Users/romanphil/Desktop/ThreadAdvanced/obj/Debug/net10.0/ThreadAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanphil/Desktop/ThreadAdvanced/obj/Debug/net10.0/ThreadAdvanced.AssemblyInfoInputs.cache
+/Users/romanphil/Desktop/ThreadAdvanced/obj/Debug/net10.0/ThreadAdvanced.AssemblyInfo.cs
+/Users/romanphil/Desktop/ThreadAdvanced/obj/Debug/net10.0/ThreadAdvanced.csproj.CoreCompileInputs.cache
+/Users/romanphil/Desktop/ThreadAdvanced/obj/Debug/net10.0/ThreadAdvanced.dll
+/Users/romanphil/Desktop/ThreadAdvanced/obj/Debug/net10.0/refint/ThreadAdvanced.dll
+/Users/romanphil/Desktop/ThreadAdvanced/obj/Debug/net10.0/ThreadAdvanced.pdb
+/Users/romanphil/Desktop/ThreadAdvanced/obj/Debug/net10.0/ThreadAdvanced.genruntimeconfig.cache
+/Users/romanphil/Desktop/ThreadAdvanced/obj/Debug/net10.0/ref/ThreadAdvanced.dll
