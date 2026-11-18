@@ -1,0 +1,14 @@
+/Users/romanphil/Desktop/SyncKernel/bin/Debug/net10.0/SyncKernel
+/Users/romanphil/Desktop/SyncKernel/bin/Debug/net10.0/SyncKernel.deps.json
+/Users/romanphil/Desktop/SyncKernel/bin/Debug/net10.0/SyncKernel.runtimeconfig.json
+/Users/romanphil/Desktop/SyncKernel/bin/Debug/net10.0/SyncKernel.dll
+/Users/romanphil/Desktop/SyncKernel/bin/Debug/net10.0/SyncKernel.pdb
+/Users/romanphil/Desktop/SyncKernel/obj/Debug/net10.0/SyncKernel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanphil/Desktop/SyncKernel/obj/Debug/net10.0/SyncKernel.AssemblyInfoInputs.cache
+/Users/romanphil/Desktop/SyncKernel/obj/Debug/net10.0/SyncKernel.AssemblyInfo.cs
+/Users/romanphil/Desktop/SyncKernel/obj/Debug/net10.0/SyncKernel.csproj.CoreCompileInputs.cache
+/Users/romanphil/Desktop/SyncKernel/obj/Debug/net10.0/SyncKernel.dll
+/Users/romanphil/Desktop/SyncKernel/obj/Debug/net10.0/refint/SyncKernel.dll
+/Users/romanphil/Desktop/SyncKernel/obj/Debug/net10.0/SyncKernel.pdb
+/Users/romanphil/Desktop/SyncKernel/obj/Debug/net10.0/SyncKernel.genruntimeconfig.cache
+/Users/romanphil/Desktop/SyncKernel/obj/Debug/net10.0/ref/SyncKernel.dll
