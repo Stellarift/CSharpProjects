@@ -1,0 +1,14 @@
+/Users/romanphil/Desktop/TaskLab/bin/Debug/net10.0/TaskLab
+/Users/romanphil/Desktop/TaskLab/bin/Debug/net10.0/TaskLab.deps.json
+/Users/romanphil/Desktop/TaskLab/bin/Debug/net10.0/TaskLab.runtimeconfig.json
+/Users/romanphil/Desktop/TaskLab/bin/Debug/net10.0/TaskLab.dll
+/Users/romanphil/Desktop/TaskLab/bin/Debug/net10.0/TaskLab.pdb
+/Users/romanphil/Desktop/TaskLab/obj/Debug/net10.0/TaskLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanphil/Desktop/TaskLab/obj/Debug/net10.0/TaskLab.AssemblyInfoInputs.cache
+/Users/romanphil/Desktop/TaskLab/obj/Debug/net10.0/TaskLab.AssemblyInfo.cs
+/Users/romanphil/Desktop/TaskLab/obj/Debug/net10.0/TaskLab.csproj.CoreCompileInputs.cache
+/Users/romanphil/Desktop/TaskLab/obj/Debug/net10.0/TaskLab.dll
+/Users/romanphil/Desktop/TaskLab/obj/Debug/net10.0/refint/TaskLab.dll
+/Users/romanphil/Desktop/TaskLab/obj/Debug/net10.0/TaskLab.pdb
+/Users/romanphil/Desktop/TaskLab/obj/Debug/net10.0/TaskLab.genruntimeconfig.cache
+/Users/romanphil/Desktop/TaskLab/obj/Debug/net10.0/ref/TaskLab.dll
