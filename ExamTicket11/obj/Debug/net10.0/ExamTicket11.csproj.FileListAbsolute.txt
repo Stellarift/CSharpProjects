@@ -1,0 +1,14 @@
+/Users/romanphil/Desktop/ExamTicket11/bin/Debug/net10.0/ExamTicket11
+/Users/romanphil/Desktop/ExamTicket11/bin/Debug/net10.0/ExamTicket11.deps.json
+/Users/romanphil/Desktop/ExamTicket11/bin/Debug/net10.0/ExamTicket11.runtimeconfig.json
+/Users/romanphil/Desktop/ExamTicket11/bin/Debug/net10.0/ExamTicket11.dll
+/Users/romanphil/Desktop/ExamTicket11/bin/Debug/net10.0/ExamTicket11.pdb
+/Users/romanphil/Desktop/ExamTicket11/obj/Debug/net10.0/ExamTicket11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanphil/Desktop/ExamTicket11/obj/Debug/net10.0/ExamTicket11.AssemblyInfoInputs.cache
+/Users/romanphil/Desktop/ExamTicket11/obj/Debug/net10.0/ExamTicket11.AssemblyInfo.cs
+/Users/romanphil/Desktop/ExamTicket11/obj/Debug/net10.0/ExamTicket11.csproj.CoreCompileInputs.cache
+/Users/romanphil/Desktop/ExamTicket11/obj/Debug/net10.0/ExamTicket11.dll
+/Users/romanphil/Desktop/ExamTicket11/obj/Debug/net10.0/refint/ExamTicket11.dll
+/Users/romanphil/Desktop/ExamTicket11/obj/Debug/net10.0/ExamTicket11.pdb
+/Users/romanphil/Desktop/ExamTicket11/obj/Debug/net10.0/ExamTicket11.genruntimeconfig.cache
+/Users/romanphil/Desktop/ExamTicket11/obj/Debug/net10.0/ref/ExamTicket11.dll
