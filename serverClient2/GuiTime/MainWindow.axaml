@@ -1,0 +1,15 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="GuiTime.MainWindow"
+        Title="Запрос времени и даты (GUI)">
+    <Grid Margin="10" RowDefinitions="Auto,*">
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Spacing="10" Margin="0,0,0,10">
+            <Button x:Name="BtnStartServer" Content="Запустить Сервер" Click="BtnStartServer_Click"/>
+            <Button x:Name="BtnConnect" Content="Подключиться" Click="BtnConnect_Click"/>
+            <Button x:Name="BtnTime" Content="Узнать время" Click="BtnTime_Click" IsEnabled="False"/>
+            <Button x:Name="BtnDate" Content="Узнать дату" Click="BtnDate_Click" IsEnabled="False"/>
+        </StackPanel>
+        
+        <TextBox Grid.Row="1" x:Name="TxtLog" AcceptsReturn="True" IsReadOnly="True" TextWrapping="Wrap"/>
+    </Grid>
+</Window>

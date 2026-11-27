@@ -1,0 +1,38 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="GuiChat.MainWindow"
+        Title="Сетевое приложение: Чат и Боты" Width="700" Height="500">
+    <Grid Margin="10" RowDefinitions="Auto,Auto,*,Auto">
+        
+        <!-- Панель настроек -->
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Spacing="10" Margin="0,0,0,10">
+            <TextBlock Text="IP:" VerticalAlignment="Center"/>
+            <TextBox x:Name="TxtIp" Text="127.0.0.1" Width="100" VerticalAlignment="Center"/>
+            <TextBlock Text="Порт:" VerticalAlignment="Center"/>
+            <TextBox x:Name="TxtPort" Text="8890" Width="60" VerticalAlignment="Center"/>
+            <Button x:Name="BtnStartServer" Content="Запустить Сервер" Click="BtnStartServer_Click"/>
+            <Button x:Name="BtnConnect" Content="Подключиться" Click="BtnConnect_Click"/>
+            <Button x:Name="BtnDisconnect" Content="Отключиться" Click="BtnDisconnect_Click" IsEnabled="False"/>
+        </StackPanel>
+
+        <!-- Панель выбора режима -->
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Spacing="10" Margin="0,0,0,10">
+            <TextBlock Text="Режим:" VerticalAlignment="Center"/>
+            <ComboBox x:Name="CmbMode" SelectedIndex="0">
+                <ComboBoxItem Content="Человек — Человек"/>
+                <ComboBoxItem Content="Человек (Клиент) — Компьютер (Сервер)"/>
+                <ComboBoxItem Content="Компьютер (Клиент) — Человек (Сервер)"/>
+                <ComboBoxItem Content="Компьютер (Клиент) — Компьютер (Сервер)"/>
+            </ComboBox>
+        </StackPanel>
+        
+        <!-- Окно лога -->
+        <TextBox Grid.Row="2" x:Name="TxtLog" AcceptsReturn="True" IsReadOnly="True" TextWrapping="Wrap" Margin="0,0,0,10"/>
+                 
+        <!-- Панель отправки -->
+        <StackPanel Grid.Row="3" Orientation="Horizontal" Spacing="10">
+            <TextBox x:Name="TxtMessage" Width="400" PlaceholderText="Введите сообщение..."/>
+            <Button x:Name="BtnSend" Content="Отправить" Click="BtnSend_Click" IsEnabled="False"/>
+        </StackPanel>
+    </Grid>
+</Window>
